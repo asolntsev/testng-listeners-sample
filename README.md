@@ -2,6 +2,8 @@
 
 (compared to 7.4.0)
 
+The issue itself: https://github.com/cbeust/testng/issues/2771
+
 ### How to reproduce the problem
 Command `mvn test` should fail.
 * It fails (as expected) with TestNG 7.4.0, but
